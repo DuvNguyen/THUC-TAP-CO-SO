@@ -370,6 +370,48 @@
             <mxPoint x="-1130" y="900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="g5pkuBaanTUEijDNv1J0-7" value="Quản lý khách hàng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-588" y="769" width="156" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g5pkuBaanTUEijDNv1J0-8" value="Lưu trữ thông tin khách hàng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-721" y="879" width="156" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g5pkuBaanTUEijDNv1J0-9" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g5pkuBaanTUEijDNv1J0-7" target="g5pkuBaanTUEijDNv1J0-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-560" y="839" as="sourcePoint" />
+            <mxPoint x="-610" y="889" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g5pkuBaanTUEijDNv1J0-10" value="Quản lý tài khoản" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="-451" y="879" width="156" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g5pkuBaanTUEijDNv1J0-11" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g5pkuBaanTUEijDNv1J0-7" target="g5pkuBaanTUEijDNv1J0-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-500" y="839" as="sourcePoint" />
+            <mxPoint x="-650" y="889" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g5pkuBaanTUEijDNv1J0-13" value="Quản lý đơn hàng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="233" y="776" width="156" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g5pkuBaanTUEijDNv1J0-14" value="Kiểm tra thông tin đơn hàng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="106" y="886" width="156" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g5pkuBaanTUEijDNv1J0-15" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g5pkuBaanTUEijDNv1J0-13" target="g5pkuBaanTUEijDNv1J0-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="111" y="846" as="sourcePoint" />
+            <mxPoint x="111" y="896" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="g5pkuBaanTUEijDNv1J0-16" value="Theo dõi trạng thái đơn hàng" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="373" y="886" width="156" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="g5pkuBaanTUEijDNv1J0-17" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="g5pkuBaanTUEijDNv1J0-13" target="g5pkuBaanTUEijDNv1J0-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="333" y="856" as="sourcePoint" />
+            <mxPoint x="281" y="896" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
